@@ -1,0 +1,11 @@
+modules:
+  macro:
+    - key: codegeist-hackathon-hello-world
+      function: main
+      title: Codegeist hackathon for raja
+      description: Inserts Hello world!
+  function:
+    - key: main
+      handler: index.run
+app:
+  id: ari:cloud:ecosystem::app/757e3be4-3181-49ed-8eb8-e79d7e2dcb0a
